@@ -4,7 +4,6 @@
   "version": "0.0.0",
   "type": "module",
   "homepage": "https://aryan-dotcom-commits.github.io/",
-
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -13,6 +12,7 @@
   },
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^6.7.2",
+    "emailjs": "^4.0.3",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-router-dom": "^7.5.3"
